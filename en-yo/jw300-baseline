@@ -1,0 +1,39 @@
+English to Yoruba
+
+Author: Oluwole Akinola
+Data
+
+- The JW300 English- Yoruba.
+
+Model
+
+- Default Masakhane Transformer translation model.
+- Link to google drive folder with model(https://drive.google.com/open?id=169N524PaAZmpSdaJAxUnQHa7tCRXeM2y)
+
+Analysis
+
+Example #0
+Source:     Now I had to find a legitimate line of work .
+Reference:  Torí náà , mo ní láti wá iṣẹ́ gidi .
+Hypothesis: Ní báyìí , mo ní láti wá iṣẹ́ tó dára gan - an .
+
+Example #1
+Source:     Do I value material things more than my relationship with Jehovah and with people ?
+Reference:  Ṣé àwọn nǹkan tara ló jẹ mí lógún jù àbí àjọṣe mi pẹ̀lú Jèhófà àtàwọn èèyàn ?
+Hypothesis: Ṣé mo mọyì àwọn nǹkan tara ju àjọṣe mi pẹ̀lú Jèhófà àti pẹ̀lú àwọn èèyàn lọ ?
+
+Example #2
+Source:     He has far more experience and stamina than you do , but he patiently walks near you .
+Reference:  Ẹni tẹ́ ẹ jọ ń lọ yìí mọ ọ̀nà yẹn dáadáa .
+Hypothesis: Ó ní ìrírí tó pọ̀ gan - an , ó sì ní ìrírí tó pọ̀ ju bó o ṣe ń ṣe , àmọ́ ó fi sùúrù rìn nítòsí rẹ .
+
+Example #3
+Source:     According to Harkavy’s Students ’ Hebrew and Chaldee Dictionary , ʽadh means “ duration , everlastingness , eternity , for ever . ”
+Reference:  Gẹ́gẹ́ bí Harkavy’s Students ’ Hebrew and Chaldee Dictionary ṣe sọ , ʽadh túmọ̀ sí “ àkókò gígùn , àìnípẹ̀kun , títí gbére , títí láé . ”
+Hypothesis: Gẹ́gẹ́ bí ìwé atúmọ̀ èdè Harkavy’s Stud’s Stud’s Stud’s , Chaldee Dictionary , tó túmọ̀ sí “ ìfaradà , ìfaradà , títí láé , fún ìgbà kan rí . ”
+
+
+Results
+
+- BLEU dev: 29.69
+- BLEU test: 37.26
